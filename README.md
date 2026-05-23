@@ -23,7 +23,7 @@ This project segments **287 customers** from a print-on-demand business using th
 
 ## Dashboard Preview
 
-![Power BI Dashboard](dashboard_preview.png)
+![Power BI Dashboard](Screenshot%202026-05-23%20194126.png)
 
 > **287** total customers · **£17,069** total revenue · **6** product types · **Jan–Dec 2025**
 
